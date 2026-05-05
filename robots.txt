@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-il5n7a.acceptancetesting.dev/sitemap.xml
